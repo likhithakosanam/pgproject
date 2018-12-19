@@ -57,7 +57,6 @@ namespace WindowsFormsApp2
             this.label7 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
-            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             ((System.ComponentModel.ISupportInitialize)(this.hOSTELBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.database1DataSet)).BeginInit();
             this.groupBox1.SuspendLayout();
@@ -457,7 +456,6 @@ namespace WindowsFormsApp2
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label6;
-        private System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }
 
